@@ -1,0 +1,70 @@
+{
+  "book": [
+    {
+      "id": "1",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Classic",
+      "status": "Available",
+      "image": "https://covers.openlibrary.org/b/id/7222246-L.jpg"
+    },
+    {
+      "id": "2",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Classic",
+      "status": "Issued",
+      "image": "https://covers.openlibrary.org/b/id/8228691-L.jpg"
+    },
+    {
+      "id": "3",
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Dystopian",
+      "status": "Available",
+      "image": "https://covers.openlibrary.org/b/id/7222246-L.jpg"
+    },
+    {
+      "id": "4",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "status": "Available",
+      "image": "https://covers.openlibrary.org/b/id/6979861-L.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "genre": "Fantasy",
+      "status": "Issued",
+      "image": "https://covers.openlibrary.org/b/id/7984916-L.jpg"
+    },
+    {
+      "id": "6",
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "genre": "Thriller",
+      "status": "Available",
+      "image": "https://covers.openlibrary.org/b/id/240726-L.jpg"
+    },
+    {
+      "id": "d056",
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "genre": "Self-help",
+      "publishedYear": 2018,
+      "status": "Available",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81wgcld4wxL.jpg"
+    },
+    {
+      "id": "682c",
+      "title": "History",
+      "author": "Harper Lee",
+      "genre": "Classic",
+      "publishedYear": 1998,
+      "status": "Available",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSef-arWDcIA7fcv7Ps3hE6cRb7tymozMTm2Xnp5_cOkYIEJtQrjxzm5O16_hrMaa2ulgQINwrCKHT9Eqe6fdUuvAAKr6efhgS3NRtlqSg"
+    }
+  ]
+}
