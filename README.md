@@ -34,3 +34,9 @@ A simple **React.js app** to manage books with features like **add, edit, delete
 ```bash
 git clone https://github.com/jayashri1998/Books_Mangement.git
 cd Books_Mangement
+then start app
+in first terminal start json server using command
+npx json-server --watch db.json --port 5000 
+
+and in second terminal run dashboard
+npm run dev 
